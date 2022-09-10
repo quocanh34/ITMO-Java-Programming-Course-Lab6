@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Programming\\Programming Laboratory\\Mylab6 libraries\\jackson-annotations-2.7.0.jar",
+        "c:\\Programming\\Programming Laboratory\\Mylab6 libraries\\jackson-core-2.7.5.jar",
+        "c:\\Programming\\Programming Laboratory\\Mylab6 libraries\\jackson-databind-2.7.5.jar",
+        "c:\\Programming\\Programming Laboratory\\Mylab6 libraries\\jackson-dataformat-xml-2.7.5.jar",
+        "c:\\Programming\\Programming Laboratory\\Mylab6 libraries\\jackson-module-jaxb-annotations-2.7.5.jar",
+        "c:\\Programming\\Programming Laboratory\\Mylab6 libraries\\log4j-1.2.17.jar",
+        "c:\\Programming\\Programming Laboratory\\Mylab6 libraries\\stax2-api-3.1.4.jar"
+    ]
+}
